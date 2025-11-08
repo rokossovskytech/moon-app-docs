@@ -87,7 +87,7 @@ Any disputes arising under or related to these Terms will be handled under Ukrai
 
 ## 10. Contact
 For questions about these Terms, please contact:  
-📧 **roman.mahda100@gmail.com**
+📧 **[roman.mahda100@gmail.com](mailto:roman.mahda100@gmail.com)**
 
 ---
 
