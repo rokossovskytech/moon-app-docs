@@ -75,7 +75,7 @@ When updated, the “Effective Date” will change.
 Your continued use of the App after such updates means you accept the new Terms.
 
 The latest version is always available at:  
-👉 **https://rokossovskytech.github.io/moon-app-docs/terms-of-use**
+👉 [**Terms of Use**](https://rokossovskytech.github.io/moon-app-docs/terms-of-use/)
 
 ---
 
