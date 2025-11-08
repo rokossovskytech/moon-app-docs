@@ -3,7 +3,6 @@ layout: post
 title: Moon App Support
 permalink: /support/
 ---
-
 Last updated: November 7, 2025
 
 Welcome to the official support page for Moon — your personal sleep tracking and wellness companion.
