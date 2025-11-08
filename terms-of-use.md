@@ -1,100 +1,92 @@
-Terms of Use
+# 🌙 Moon App — Terms of Use  
+**Effective Date:** November 7, 2025  
 
-Last updated: November 7, 2025
+Welcome to **Moon App**, developed and owned by **Roman Mahda** (“we”, “our”, or “us”).  
+These Terms of Use (“Terms”) govern your use of the Moon App (“the App”).  
+By using the App, you agree to these Terms.
 
-Welcome to Moon, an iOS application developed and owned by Roman Mahda (“we”, “our”, or “us”).
-These Terms of Use (“Terms”) govern your use of the Moon App (“the App”). By using the App, you agree to these Terms.
-If you do not agree, please do not use the App.
+---
 
-1. General Information
+## 1. Overview
+Moon App helps users track and analyze their sleep using **Apple HealthKit** and iOS technologies.  
+It is designed for **personal, non-commercial use only**.
 
-Moon is a mobile application designed to help users track and analyze their sleep using Apple HealthKit and related iOS technologies.
-The App is intended for personal, non-commercial use only.
+---
 
-2. Eligibility
+## 2. Eligibility
+You must be at least **13 years old** to use Moon App.  
+If you are under 18, you must have consent from a parent or guardian.
 
-You must be at least 13 years old to use the App.
-If you are under the age of 18, you must have parental consent to use the App.
+---
 
-3. Use of the App
+## 3. Use of the App
+By using Moon App, you agree to:
+- Use it only for lawful, personal purposes;  
+- Not copy, reverse-engineer, or modify the App;  
+- Not interfere with its functionality or security.  
 
-By using Moon, you agree to:
+You are responsible for maintaining the security of your device and any data stored in the App.
 
-Use the App only for lawful purposes;
+---
 
-Not attempt to modify, decompile, or reverse-engineer the App;
+## 4. Health Disclaimer
+Moon App provides **informational insights only**.  
+It is **not a medical device** and does not diagnose or treat medical conditions.  
+Always consult a qualified medical professional regarding your sleep or health.
 
-Not misuse or exploit the App in any way that could harm the App, its services, or other users.
+---
 
-You are responsible for maintaining the confidentiality of your device and any data stored within the App.
+## 5. Subscriptions and Payments
+Moon App may include **in-app purchases** or **subscriptions** available through the Apple App Store.  
+- Payment is processed by Apple using your Apple ID.  
+- Subscriptions **automatically renew** unless canceled at least 24 hours before the renewal date.  
+- You can manage or cancel subscriptions in **Apple ID → Subscriptions**.  
+- Refunds follow Apple’s refund policy.  
 
-4. Health Disclaimer
+We do not process payments or store financial information.
 
-Moon provides informational insights based on your sleep data from Apple HealthKit.
-It does not provide medical advice, diagnosis, or treatment.
-Always consult a qualified healthcare professional for any questions about your health, sleep patterns, or medical conditions.
+---
 
-5. Data and Privacy
+## 6. Third-Party Services
+Moon App integrates with:
+- **Apple HealthKit (Apple Inc.)** — to read and display sleep data.  
+- **Firebase (Google LLC)** — for analytics and audio content storage.
 
-Your privacy is important to us.
-Please refer to our Privacy Policy
- for details on how we collect, use, and protect your data.
-By using the App, you agree to the terms outlined in the Privacy Policy.
+Each service has its own terms and privacy policy.  
+We are not responsible for their content or data practices.
 
-6. Subscriptions and Payments
+---
 
-Moon may offer optional premium features, subscriptions, or in-app purchases in the future.
+## 7. Limitation of Liability
+To the fullest extent permitted by law:
+- Moon App is provided **“as is”** and **“as available”**.  
+- We do not guarantee uninterrupted or error-free operation.  
+- We are not liable for any indirect, incidental, or consequential damages resulting from the use of the App.  
+- You use the App at your own risk.
 
-Payments are processed through Apple’s App Store.
+---
 
-Subscription prices and durations are displayed clearly before purchase.
+## 8. Changes to These Terms
+We may update these Terms at any time.  
+When updated, the “Effective Date” will change.  
+Your continued use of the App after such updates means you accept the new Terms.
 
-You can manage or cancel subscriptions in your Apple ID account settings.
+The latest version is always available at:  
+👉 **https://rokossovskytech.github.io/moon-app-docs/terms-of-use**
 
-No refunds are issued for unused periods after cancellation, except as required by law.
+---
 
-7. Intellectual Property
+## 9. Governing Law and Jurisdiction
+These Terms are governed by the laws of **Ukraine**.  
+Any disputes arising under or related to these Terms will be handled under Ukrainian jurisdiction.
 
-All materials in the App, including but not limited to logos, icons, interface design, text, and graphics, are the property of Roman Mahda and are protected by applicable copyright and trademark laws.
+---
 
-You may not reproduce, distribute, or create derivative works without prior written consent.
+## 10. Contact
+For questions about these Terms, please contact:  
+📧 **roman.mahda100@gmail.com**
 
-8. Limitation of Liability
+---
 
-To the maximum extent permitted by law:
-
-We are not responsible for any damages, losses, or injuries arising from the use of the App, including inaccurate data or analysis results.
-
-The App is provided “as is”, without warranties of any kind, express or implied.
-
-You use the App at your own risk.
-
-9. Third-Party Services
-
-Moon may integrate with third-party services, such as:
-
-Apple HealthKit (Apple Inc.)
-
-Firebase Analytics and Storage (Google LLC)
-
-We are not responsible for the content, policies, or actions of these third parties. Please refer to their respective privacy policies.
-
-10. Termination
-
-We reserve the right to suspend or terminate your access to the App at any time if we believe you have violated these Terms or engaged in fraudulent or harmful activity.
-
-11. Updates and Modifications
-
-We may update or modify these Terms from time to time.
-The latest version will always be available at:
-https://your_github_username.github.io/moon-app-docs/terms-of-use
-
-Continued use of the App after changes means you accept the updated Terms.
-
-12. Contact Information
-
-If you have any questions or concerns about these Terms, please contact:
-📧 roman.mahda100@gmail.com
-
-© 2025 Roman Mahda. All rights reserved.
-Moon App — Sleep Tracking & HealthKit Integration
+© 2025 **Roman Mahda**. All rights reserved.  
+_Moon App — Sleep Tracking & HealthKit Integration_
