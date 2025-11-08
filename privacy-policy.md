@@ -1,6 +1,6 @@
 ---
-title: "Moon App — Privacy Policy"
-permalink: /privacy-policy/
+layout: default
+title: Политика Конфиденциальности
 ---
 **Effective Date:** November 7, 2025  
 
