@@ -1,2 +1,13 @@
 #theme: jekyll-theme-cayman
 remote_theme: sighingnow/jekyll-gitbook
+
+# Пример дополнительных настроек для sighingnow/jekyll-gitbook
+title: Документация Moon
+longtitle: Приложение Moon - Руководство пользователя
+# Настройка оглавления (TOC)
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+# Настройка поиска (может требовать дополнительных шагов)
+search: true
