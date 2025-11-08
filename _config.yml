@@ -11,3 +11,9 @@ toc:
   h_max: 3
 # Настройка поиска (может требовать дополнительных шагов)
 search: true
+
+# Добавьте или обновите эти переменные в _config.yml
+# Замените 'ВАШ_ПОЛЬЗОВАТЕЛЬ/ВАШ_РЕПОЗИТОРИЙ' на ваш реальный путь
+# Например: rokossovskytech/moon-app-docs
+
+github: 'rokossovskytech/moon-app-docs'
