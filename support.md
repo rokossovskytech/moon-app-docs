@@ -24,7 +24,7 @@ If the issue persists, contact us directly (see below).
 
 ## 2. Contact Us
 For support, bug reports, or general inquiries:  
-📧 **roman.mahda100@gmail.com**
+📧 **[roman.mahda100@gmail.com](mailto:roman.mahda100@gmail.com)**
 
 We aim to respond within **2-3 business days**.
 
