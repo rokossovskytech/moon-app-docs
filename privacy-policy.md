@@ -92,7 +92,7 @@ Any disputes will be handled under Ukrainian jurisdiction.
 
 ## 9. Contact Us
 For privacy-related questions or support:  
-📧 **roman.mahda100@gmail.com**
+📧 **[roman.mahda100@gmail.com](mailto:roman.mahda100@gmail.com)**
 
 ---
 
