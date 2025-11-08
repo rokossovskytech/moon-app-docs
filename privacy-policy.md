@@ -1,7 +1,9 @@
 ---
-title: Политика Конфиденциальности
+title: Privacy Policy
 permalink: /privacy-policy/
 ---
+# Privacy Policy
+
 **Effective Date:** November 7, 2025  
 
 This Privacy Policy explains how **Moon App** (“we”, “our”, or “us”) collects, uses, and protects your information when you use our iOS application.  
