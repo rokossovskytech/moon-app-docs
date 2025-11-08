@@ -2,7 +2,7 @@
 title: Moon App Support
 permalink: /support/
 ---
-## Moon App Support
+# Moon App Support
 
 Effective Date: November 7, 2025
 
