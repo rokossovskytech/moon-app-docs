@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Политика Конфиденциальности
 permalink: /privacy-policy/
 ---
