@@ -15,15 +15,15 @@ Below you’ll find all the key documents that describe how we handle your data 
 
 📜 Documents
 
-• Privacy Policy
+• Privacy Policy - https://rokossovskytech.github.io/moon-app-docs/privacy-policy.md
 
 How we collect, use, and protect your data.
 
-• Terms of Use
+• Terms of Use - https://rokossovskytech.github.io/moon-app-docs/terms-of-use.md
 
 Rules and conditions for using Moon.
 
-• Support
+• Support - https://rokossovskytech.github.io/moon-app-docs/support.md
 
 Contact information and troubleshooting guide.
 
@@ -50,9 +50,9 @@ We usually respond within 2–3 business days.
 
 App Store: coming soon
 
-GitHub: https://github.com/your_username/moon-app
+GitHub: https://github.com/rokossovskytech/moon-app
 
-Documentation: https://your_username.github.io/moon-app-docs
+Documentation: https://rokossovskytech.github.io/moon-app-docs
 
 © 2025 Roman Mahda
 Moon App — Sleep Tracking & HealthKit Integration
