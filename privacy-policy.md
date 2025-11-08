@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Политика Конфиденциальности
+permalink: /privacy-policy/
 ---
 **Effective Date:** November 7, 2025  
 
