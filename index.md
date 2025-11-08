@@ -15,15 +15,15 @@ Below you’ll find all the key documents that describe how we handle your data 
 
 📜 Documents
 
-• Privacy Policy - https://rokossovskytech.github.io/moon-app-docs/privacy-policy.md
+• Privacy Policy - https://rokossovskytech.github.io/moon-app-docs/privacy-policy/
 
 How we collect, use, and protect your data.
 
-• Terms of Use - https://rokossovskytech.github.io/moon-app-docs/terms-of-use.md
+• Terms of Use - https://rokossovskytech.github.io/moon-app-docs/terms-of-use/
 
 Rules and conditions for using Moon.
 
-• Support - https://rokossovskytech.github.io/moon-app-docs/support.md
+• Support - https://rokossovskytech.github.io/moon-app-docs/support/
 
 Contact information and troubleshooting guide.
 
