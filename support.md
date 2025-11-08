@@ -2,7 +2,9 @@
 title: Moon App Support
 permalink: /support/
 ---
-Last updated: November 7, 2025
+## Moon App Support
+
+Effective Date: November 7, 2025
 
 Welcome to the official support page for **Moon App** — your personal sleep tracking and wellness companion.
 
