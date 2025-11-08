@@ -50,7 +50,7 @@ We usually respond within 2–3 business days.
 ## 🌐 Links
 
 * App Store: **coming soon**
-* GitHub: [https://github.com/rokossovskytech/moon-app](https://github.com/rokossovskytech/moon-app)
+* GitHub: [https://github.com/rokossovskytech/moon-app-docs](https://github.com/rokossovskytech/moon-app-docs)
 * Documentation: [https://rokossovskytech.github.io/moon-app-docs](https://rokossovskytech.github.io/moon-app-docs)
 
 ---
