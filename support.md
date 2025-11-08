@@ -37,8 +37,8 @@ Your feedback helps us make Moon better. If you have ideas or feature requests, 
 
 ## 4. Legal Information
 For details on how we handle your data, please see:  
-👉 [Privacy Policy]([/privacy-policy/](https://rokossovskytech.github.io/moon-app-docs/privacy-policy/))
-👉 [Terms of Use]([/terms-of-use/](https://rokossovskytech.github.io/moon-app-docs/terms-of-use/))
+👉 [Privacy Policy](/privacy-policy/)
+👉 [Terms of Use](/terms-of-use/)
 
 ---
 
