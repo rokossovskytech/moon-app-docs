@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Moon App Support
 permalink: /support/
 ---
