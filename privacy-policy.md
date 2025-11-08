@@ -80,7 +80,7 @@ When updated, the “Effective Date” will change.
 Continued use of the App after such updates means you accept the new version.
 
 The latest version is always available at:  
-👉 **https://rokossovskytech.github.io/moon-app-docs/privacy-policy**
+👉 [**Privacy Policy**](https://rokossovskytech.github.io/moon-app-docs/privacy-policy/)
 
 ---
 
