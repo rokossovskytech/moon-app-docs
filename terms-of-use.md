@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Moon App — Terms of Use
 permalink: /terms-of-use/
 ---
