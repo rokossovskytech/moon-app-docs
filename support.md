@@ -1,4 +1,8 @@
-Moon App Support
+---
+layout: post
+title: Moon App Support
+permalink: /support/
+---
 
 Last updated: November 7, 2025
 
