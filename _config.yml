@@ -17,3 +17,8 @@ search: true
 # Например: rokossovskytech/moon-app-docs
 
 github: 'rokossovskytech/moon-app-docs'
+
+share:
+  twitter: false
+  facebook: false
+  github: true # Оставьте эту
