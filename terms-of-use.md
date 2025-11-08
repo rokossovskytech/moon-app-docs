@@ -1,4 +1,7 @@
-# 🌙 Moon App — Terms of Use  
+---
+title: "Moon App — Terms of Use"
+permalink: /terms-of-use/
+---
 **Effective Date:** November 7, 2025  
 
 Welcome to **Moon App**, developed and owned by **Roman Mahda** (“we”, “our”, or “us”).  
