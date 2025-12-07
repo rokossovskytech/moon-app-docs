@@ -56,7 +56,7 @@ We usually respond within **2–3 business days**.
 
 ## 🌐 Links
 
-- **App Store:** *coming soon* <!-- Replace with App Store link after release -->
+- **App Store:** [https://apps.apple.com/ua/app/moon-sleep-rhythm-tracker](https://apps.apple.com/ua/app/moon-sleep-rhythm-tracker/id6754519270)
 - **GitHub:** [https://github.com/rokossovskytech/moon-app-docs](https://github.com/rokossovskytech/moon-app-docs)
 - **Documentation:** [https://rokossovskytech.github.io/moon-app-docs](https://rokossovskytech.github.io/moon-app-docs)
 
