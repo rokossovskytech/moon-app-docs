@@ -45,11 +45,15 @@ All analytics data are **anonymous and aggregated**.
 ### 🤖 Moon AI Assistant
 Moon App includes an AI-powered sleep assistant called **Moon AI**.
 
+**Your Consent:** Before using Moon AI for the first time, you will be asked to consent to data sharing. By accepting, you agree that your questions and sleep metrics may be processed by our AI service.
+
 When you use Moon AI:
 - Your questions and relevant sleep metrics (such as duration and quality percentages) are sent to our secure server.
 - Our server forwards these to **OpenAI** for processing. **No personal identifiers are included.**
 - OpenAI processes requests according to its [API Data Usage Policies](https://openai.com/policies/api-data-usage-policies) and **does not use API data to train its models**.
 - We do not permanently store your conversations on our servers.
+
+You can decline to use Moon AI at any time. Declining does not affect your use of other Moon App features.
 
 ---
 
