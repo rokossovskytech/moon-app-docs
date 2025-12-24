@@ -3,10 +3,10 @@ title: Moon App — Terms of Use
 permalink: /terms-of-use/
 ---
 # Moon App — Terms of Use  
-**Effective Date:** November 7, 2025  
+**Effective Date:** December 24, 2025  
 
-Welcome to **Moon App**, developed and owned by **Roman Mahda** (“we”, “our”, or “us”).  
-These Terms of Use (“Terms”) govern your use of the **Moon App** (“the App”).  
+Welcome to **Moon App**, developed and owned by **Roman Mahda** ("we", "our", or "us").  
+These Terms of Use ("Terms") govern your use of the **Moon App** ("the App").  
 By using the App, you agree to these Terms. If you do not agree, please discontinue using the App.
 
 ---
@@ -39,18 +39,34 @@ Moon App provides **informational insights only** and is **not a medical device*
 The App does not diagnose, prevent, or treat any medical condition.  
 Always consult a qualified medical professional for advice regarding your sleep or health.  
 
-> The information provided by Moon App is for **general wellness purposes only**, consistent with Apple’s HealthKit and App Store guidelines.
+> The information provided by Moon App is for **general wellness purposes only**, consistent with Apple's HealthKit and App Store guidelines.
 
 ---
 
 ## 5. Subscriptions and Payments
-Moon App may include **in-app purchases** or **subscriptions** available through the **Apple App Store**.
+Moon App offers **in-app subscriptions** available through the **Apple App Store**.
 
-- Payments are processed securely by **Apple** via your **Apple ID**.  
-- Subscriptions automatically renew unless canceled at least **24 hours before the renewal date**.  
-- You can manage or cancel your subscriptions in **Settings → Apple ID → Subscriptions**.  
-- Refunds are handled according to **Apple’s refund policy**.  
-- We do not process payments directly and **do not store financial or billing information**.
+### Subscription Plans
+
+| Plan | Approximate Price | Key Features |
+|------|-------------------|--------------|
+| **Free** | Free | Up to 5 alarms, Basic AI (5/week), Rotation task |
+| **Premium** | ~$4.99/mo or ~$39.99/yr | Up to 10 alarms, 25 AI/day, Light & Math tasks, Sleep Correction |
+| **Premium+** | ~$9.99/mo or ~$79.99/yr | Up to 20 alarms, 60 AI/day, Extended AI, Priority Support |
+
+> **Note:** Prices may vary by region and currency. The final price is displayed in the App Store before purchase.
+
+### Auto-Renewal Policy
+- Subscriptions **automatically renew** unless cancelled at least **24 hours before** the end of the current billing period.
+- Your Apple ID account will be charged for renewal within 24 hours prior to the end of the current period.
+- You can manage or cancel your subscription at any time in **Settings → Apple ID → Subscriptions**.
+
+### Upgrades and Downgrades
+- Upgrading from a monthly to a yearly plan (or to a higher tier) takes effect **immediately** with a prorated credit for the unused portion of your previous plan.
+- Downgrading takes effect at the end of the current billing period.
+
+### Refunds
+Refunds are processed according to **Apple's refund policy**. We do not process payments directly and **do not store financial or billing information**.
 
 ---
 
@@ -58,10 +74,12 @@ Moon App may include **in-app purchases** or **subscriptions** available through
 Moon App integrates with:
 - **Apple HealthKit (Apple Inc.)** — to read and display sleep data.  
 - **Firebase (Google LLC)** — for analytics and audio content storage.  
+- **OpenAI** — to power the Moon AI sleep assistant.
 
 Each service has its own terms and privacy policies:  
 - [Apple Privacy Policy](https://www.apple.com/legal/privacy/)  
 - [Google Privacy Policy](https://policies.google.com/privacy)  
+- [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy)
 
 We are not responsible for the content, accuracy, or data practices of these third-party services.
 
@@ -69,7 +87,7 @@ We are not responsible for the content, accuracy, or data practices of these thi
 
 ## 7. Limitation of Liability
 To the fullest extent permitted by law:
-- The App is provided **“as is” and “as available”**, without warranties of any kind.  
+- The App is provided **"as is" and "as available"**, without warranties of any kind.  
 - We do not guarantee that the App will be error-free, uninterrupted, or meet all your expectations.  
 - We are not liable for any indirect, incidental, special, or consequential damages resulting from your use of the App.  
 - You use the App entirely **at your own risk**.
@@ -84,7 +102,7 @@ You may not copy, reproduce, or distribute any part of the App without written p
 
 ## 9. Changes to These Terms
 We may update these Terms at any time.  
-When updated, the **“Effective Date”** will change.  
+When updated, the **"Effective Date"** will change.  
 Your continued use of the App after such updates means you accept the new Terms.  
 
 The latest version is always available at:  
@@ -98,7 +116,7 @@ Any disputes arising under or related to these Terms will be resolved under **Uk
 
 ---
 
-## 10. Contact
+## 11. Contact
 For questions about these Terms, please contact:  
 📧 **[roman.mahda100@gmail.com](mailto:roman.mahda100@gmail.com)**
 

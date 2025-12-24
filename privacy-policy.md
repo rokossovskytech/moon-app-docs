@@ -3,7 +3,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 # Privacy Policy  
-**Effective Date:** November 7, 2025  
+**Effective Date:** December 24, 2025  
 
 This Privacy Policy explains how **Moon App** (“we”, “our”, or “us”) collects, uses, and protects your information when you use our iOS application.
 
@@ -39,6 +39,17 @@ All analytics data are **anonymous and aggregated**.
 
 > **No Personal Data Collection**  
 > We do not collect, store, or transmit any personally identifiable information such as names, email addresses, or location data.
+
+---
+
+### 🤖 Moon AI Assistant
+Moon App includes an AI-powered sleep assistant called **Moon AI**.
+
+When you use Moon AI:
+- Your questions and relevant sleep metrics (such as duration and quality percentages) are sent to our secure server.
+- Our server forwards these to **OpenAI** for processing. **No personal identifiers are included.**
+- OpenAI processes requests according to its [API Data Usage Policies](https://openai.com/policies/api-data-usage-policies) and **does not use API data to train its models**.
+- We do not permanently store your conversations on our servers.
 
 ---
 
@@ -86,6 +97,9 @@ Moon App uses the following third-party services:
 
 - **Firebase Analytics & Storage (Google LLC)** — anonymous analytics and audio content delivery  
   - Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+- **OpenAI** — powers the Moon AI sleep assistant  
+  - Privacy Policy: [https://openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy)
 
 Each provider complies with global data protection standards including **GDPR** and **CCPA**.
 
