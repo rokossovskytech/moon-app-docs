@@ -3,7 +3,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 # Privacy Policy  
-**Effective Date:** December 24, 2025  
+**Effective Date:** March 6, 2026  
 
 This Privacy Policy explains how **Moon App** (“we”, “our”, or “us”) collects, uses, and protects your information when you use our iOS application.
 
@@ -15,18 +15,17 @@ By using Moon App, you agree to this Privacy Policy. If you do not agree, please
 
 ### 🩺 Health Data (Apple HealthKit)
 Moon App integrates with **Apple HealthKit** to read sleep analysis, heart rate, and related health metrics from your Apple Watch or iPhone.  
-Health data are stored **only on your device** and are used solely within the App to display sleep trends and insights.  
+Raw health data from HealthKit are stored **only on your device**. However, strictly to enable the 'Social Challenges' feature, your aggregated sleep metrics (such as sleep duration and sleep quality score) are uploaded to our secure servers (Firebase Firestore) so you can participate in challenges with friends.  
 
-We **never share, store externally, or transmit** any HealthKit data to our servers or third parties.  
-HealthKit data are **never used for advertising, marketing, or resale**.  
+We **never share or sell** this data to third parties, and it is **never used for advertising, marketing, or resale**.  
 
 You can revoke HealthKit access at any time via **Apple Health → Sources → Moon**.
 
 ---
 
-### 💾 Local Data
-Your alarms, preferences, and sleep sessions are stored locally using Apple’s **Core Data** framework.  
-These data remain entirely on your device unless you manually delete the app or the data.
+### 💾 Data Storage (Local & Cloud)
+Your alarms, detailed daily sleep analytics, and app preferences are stored locally on your device using Apple’s Core Data framework.  
+To support the 'Social Challenges' feature, your user profile data (such as display name, avatar, and challenge history) and aggregated sleep scores are securely stored in the cloud using Firebase Authentication and Cloud Firestore.
 
 ---
 
@@ -34,11 +33,11 @@ These data remain entirely on your device unless you manually delete the app or 
 We use **Firebase Analytics** to understand how Moon App is used and to make it work better for you.  
 The information collected helps us improve stability, performance, and future features.  
 
-This information **does not include your personal health data** or any information that identifies you.  
+This information **does not include your personal health data**.  
 All analytics data are **anonymous and aggregated**.
 
-> **No Personal Data Collection**  
-> We do not collect, store, or transmit any personally identifiable information such as names, email addresses, or location data.
+> **Account Data Collection**  
+> To use the 'Social Challenges' feature, you must create an account. For this, we collect necessary account information (such as Apple ID identifiers, usernames, and display names) via Firebase Authentication. We do not use this information for any purpose other than providing the social features of the App.
 
 ---
 
@@ -69,13 +68,14 @@ We use the collected data to:
 - Improve app performance and usability  
 - Offer sounds and alarms for better sleep quality  
 - Communicate with you when you contact support  
+- Power the Social Challenges feature and leaderboards  
 
 ---
 
 ## 3. Data Storage and Security
-All health and sleep data remain on your device.  
+All detailed health and sleep data remain on your device.  
+Your profile and aggregated statistics are stored securely in the cloud to support social features.  
 We follow Apple’s data protection principles and **never sell, trade, or transfer** user data.  
-Sensitive data are not transmitted or processed outside your device.
 
 ---
 
@@ -88,7 +88,8 @@ If you are a parent or guardian and believe your child has used the App, please 
 
 ## 5. User Rights and Control
 - You can revoke HealthKit permissions at any time.  
-- You can delete all app data by uninstalling the app.  
+- **Account Deletion:** You can initiate a complete deletion of your account directly within the App (Profile -> Settings -> Delete Account). This action permanently removes your credentials from Firebase Authentication and anonymizes or deletes your profile data from our cloud servers.  
+- You can delete local app data by uninstalling the app.  
 - You can manage any shared data directly through Apple Health settings.  
 
 ---
@@ -98,6 +99,9 @@ Moon App uses the following third-party services:
 
 - **Apple HealthKit (Apple Inc.)** — health data integration  
   - Privacy Policy: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)  
+
+- **Firebase Authentication & Cloud Firestore (Google LLC)** — account management, authentication, and secure cloud storage for Social Challenges  
+  - Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 - **Firebase Analytics & Storage (Google LLC)** — anonymous analytics and audio content delivery  
   - Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
@@ -131,5 +135,5 @@ For privacy-related questions or support:
 
 ---
 
-© 2025 **Roman Mahda**. All rights reserved.  
+© 2026 **Roman Mahda**. All rights reserved.  
 _Moon App — Sleep Tracking & HealthKit Integration_
