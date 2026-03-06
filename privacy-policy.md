@@ -41,6 +41,11 @@ All analytics data are **anonymous and aggregated**.
 
 ---
 
+### 🏆 Social Challenges
+**Your Consent:** Before participating in Social Challenges for the first time, you will be asked to explicitly consent to creating a cloud profile and sharing your aggregated sleep metrics. By tapping "Accept and Continue" on the setup screen, you agree that your basic account information (such as display name and username) and your aggregated daily sleep scores (sleep duration and quality) will be securely uploaded to our Firebase Firestore database to enable the leaderboard and challenge functionality. Your detailed, raw health data is **never** uploaded. You can withdraw your consent and remove this data at any time by deleting your account within the App.
+
+---
+
 ### 🤖 Moon AI Assistant
 Moon App includes an AI-powered sleep assistant called **Moon AI**.
 
